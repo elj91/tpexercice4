@@ -1,0 +1,6 @@
+La commande git commit permet d’enregistrer les modifications préparées (avec 
+git add) dans l’historique du projet.
+Elle crée un nouveau point de sauvegarde appelé commit, identifié par un hash 
+unique.
+Chaque commit contient un message descriptif qui explique les changements 
+effectués.
