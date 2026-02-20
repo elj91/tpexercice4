@@ -1,0 +1,3 @@
+Concept Git - Commit:
+
+Le commit est une opération qui permet de sauvegarder les modifications apportées aux fichiers dans l'historique du dépôt Git. Chaque commit possède un message qui décrit les changements effectués. C'est comme prendre une photo de l'état actuel du projet à un moment donné. Le commit permet de garder une trace de l'évolution du projet et de revenir à des versions précédentes si nécessaire.
